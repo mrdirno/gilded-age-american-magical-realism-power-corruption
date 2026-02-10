@@ -1,0 +1,160 @@
+{
+  "book_id": "gilded-age-american-magical-realism-power-corruption",
+  "title": "THE GILDING",
+  "tagline": "In an age of robber barons, the ultimate currency isn't gold—it's the silence between heartbeats, the ambition in a whisper, and the corruption woven into reality itself.",
+  "target_words": 70000,
+  "actual_words": 60217,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Economy of the Invisible",
+    "Weaponized Silence",
+    "The Moral Cost of Abstraction",
+    "The Architecture of Human Want"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Silence of the Hudson",
+      "words": 2500
+    },
+    {
+      "ch": 2,
+      "title": "The Brownstone on Willow Street",
+      "words": 2400
+    },
+    {
+      "ch": 3,
+      "title": "The Man with Ash-Hair",
+      "words": 2300
+    },
+    {
+      "ch": 4,
+      "title": "The Clarendon Lode",
+      "words": 2600
+    },
+    {
+      "ch": 5,
+      "title": "A Silent Inferno",
+      "words": 2450
+    },
+    {
+      "ch": 6,
+      "title": "The Astor Ball",
+      "words": 2550
+    },
+    {
+      "ch": 7,
+      "title": "Threads of Avarice",
+      "words": 2400
+    },
+    {
+      "ch": 8,
+      "title": "The Soundproofed Study",
+      "words": 2350
+    },
+    {
+      "ch": 9,
+      "title": "The Griffin's Command",
+      "words": 2500
+    },
+    {
+      "ch": 10,
+      "title": "Whispers in the Stock Exchange",
+      "words": 2650
+    },
+    {
+      "ch": 11,
+      "title": "The Tenement's Echo",
+      "words": 2400
+    },
+    {
+      "ch": 12,
+      "title": "A Pact Forged in Quiet",
+      "words": 2550
+    },
+    {
+      "ch": 13,
+      "title": "The Hungry Silver",
+      "words": 2600
+    },
+    {
+      "ch": 14,
+      "title": "The Puppeteer's Strings",
+      "words": 2450
+    },
+    {
+      "ch": 15,
+      "title": "A Voice Snuffed Out",
+      "words": 2500
+    },
+    {
+      "ch": 16,
+      "title": "The Cocoon Unravels",
+      "words": 2350
+    },
+    {
+      "ch": 17,
+      "title": "Graves' Loyalty",
+      "words": 2400
+    },
+    {
+      "ch": 18,
+      "title": "The Latticework Revealed",
+      "words": 2700
+    },
+    {
+      "ch": 19,
+      "title": "Brooklyn Heights Confrontation",
+      "words": 2600
+    },
+    {
+      "ch": 20,
+      "title": "The Price of Nullity",
+      "words": 2450
+    },
+    {
+      "ch": 21,
+      "title": "A Symphony of Commerce",
+      "words": 2550
+    },
+    {
+      "ch": 22,
+      "title": "The Final Accumulation",
+      "words": 2650
+    },
+    {
+      "ch": 23,
+      "title": "The Web Torn Asunder",
+      "words": 2500
+    },
+    {
+      "ch": 24,
+      "title": "What Remains Unsaid",
+      "words": 2400
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter from the perspective of Graves, the valet, who moves 'without disturbing the air,' detailing a moment where he must silently clean up a metaphysical 'transaction' gone wrong.",
+      "Create a newspaper article from a skeptical reporter investigating the 'Silent Inferno' at 47 Orchard Street, slowly uncovering the unnatural truth.",
+      "Write a letter from Mr. Finch at the Clarendon silver lode to his family back East, describing the eerie 'hush' in the shafts and his growing unease, without breaking his contract's confidentiality.",
+      "Draft a scene from the youth of Cornelius Abernathy, the moment he first saw 'the faint, glimmering latticework' in his grandfather's eyes and realized his cursed/gifted perception."
+    ],
+    "technical": [
+      "Build a 'Gilding Visualizer'—a data art project that represents social networks or financial markets as a shimmering, interactive web where nodes pulse with activity and connections thrum with 'transactional energy.'",
+      "Design an audio experience or 'silence sampler' that explores the concept of stolen/commodified quiet, using field recordings, noise cancellation, and compositional techniques to represent different 'qualities' of silence as a resource."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Edith Wharton",
+      "H.P. Lovecraft",
+      "Upton Sinclair",
+      "Jorge Luis Borges"
+    ]
+  },
+  "cover_prompt": "A single, perfect gold coin hangs suspended in the air, its edge splitting into delicate, thread-like filaments of light that weave into the very fabric of a grand, shadowy library, [Detailed Scene & Context: the filaments connect to towering ledgers, a still-beating heart in a glass bell jar on a desk, and the silent, open mouth of a man in a fine suit who is turning to dust, all within the opulent, mahogany-paneled study of a 19th-century robber baron's mansion], [Artistic Style & Medium: in the atmospheric style of a symbolic painting by Remedios Varo and the detailed magical realism of James Jean, ethereal oil painting with glazing techniques and metallic leaf gilding], [Composition & Camera: book cover framing, centered composition on the coin, a dramatic low-angle shot looking up through the web of light, shallow depth of field], [Lighting & Color Palette: dramatic chiaroscuro lighting with a single shaft of dusty light, a rich color palette of deep burgundy, aged gold, charcoal black, and ethereal silver with accents of tarnished brass and bioluminescent blue], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
